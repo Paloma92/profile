@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.0.10/css/all.css');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+
+
+img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+h1 {
+  color: black;
+  font-style: sans-serif;
+  font-size: 20px;
+  font-family: 'arial';
+  text-align: center;
+  line-height: 200%;
+}
+
+body {
+  background-color: #5F9EA0;
+  font-family: Quicksand, sans-serif;
+  color: white;
+  font-size:large;
+  line-height: 200%;
+}
+
+p {
+text-align: center;
+}
+
+.card-white {
+  text-align: center;
+}
+
+.card-photo {
+  text-align: center;
+}
+
+.card-title {
+  font-family: Quicksand, sans-serif;
+  font-size: 50px;
+}
+
+a {
+  font-family: Great Vibes, cursive;
+  font-size: 30px;
+  width: 50px;
+  text-decoration: none;
+}
+
+.container {
+  width: 500px;
+  height: 200px;
+  padding-top:0px;
+  text-align: center;
+  margin:100px auto;
+
+
+}
+
+.social-icons {
+  list-style: none;
+  padding-left: 50px;
+  display: inline-grid;
+}
+
